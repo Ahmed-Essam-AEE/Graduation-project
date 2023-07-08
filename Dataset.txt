@@ -1,0 +1,2 @@
+English: https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews
+Arabic: https://www.kaggle.com/datasets/moamenelmaghraby/brad-book-review
